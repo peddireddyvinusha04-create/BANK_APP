@@ -1,4 +1,3 @@
 https://bankapp-eouqkqn24vueiuw7ydebsh.streamlit.app/
 
-
-information about yout application
+click the above link to know your  application
